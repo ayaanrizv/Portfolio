@@ -1,0 +1,2 @@
+email,subject,message
+rizviayaan00@gmail.com,Job Offer,Hi we love your portfolio and would like to connect!
